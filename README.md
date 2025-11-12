@@ -1,7 +1,6 @@
 #  SPECT Collimator Monte Carlo Simulation Dashboard
 
-This project simulates **gamma photon transport and collimator response** in a **SPECT (Single Photon Emission Computed Tomography)** system.  
-It was designed as a portfolio project to demonstrate nuclear imaging hardware engineering, detector response modeling, and collimator optimization concepts.
+This project simulates **gamma photon transport and collimator response** in a **SPECT (Single Photon Emission Computed Tomography)** system. It was designed as a portfolio project to demonstrate nuclear imaging hardware engineering, detector response modeling, and collimator optimization concepts.
 
 ---
 
