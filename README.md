@@ -1,11 +1,10 @@
-# 🧠 SPECT Collimator Monte Carlo Simulation Dashboard
+#  SPECT Collimator Monte Carlo Simulation Dashboard
 
-This project simulates **gamma photon transport and collimator response** in a **SPECT (Single Photon Emission Computed Tomography)** system.  
-It was designed as a portfolio project to demonstrate nuclear imaging hardware engineering, detector response modeling, and collimator optimization concepts.
+This project simulates **gamma photon transport and collimator response** in a **SPECT (Single Photon Emission Computed Tomography)** system. It was designed as a portfolio project to demonstrate nuclear imaging hardware engineering, detector response modeling, and collimator optimization concepts.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This simulation models photon–collimator interactions to estimate:
 - **Spatial resolution** and **sensitivity trade-offs**.
@@ -19,16 +18,16 @@ Developed using **React + Recharts + TailwindCSS**, this tool provides an intera
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🎛️ Adjustable parameters for hole size, thickness, and photon energy.  
-- 📊 Real-time plots for photon detection and energy distribution.  
-- 🧮 Basic Monte Carlo randomization for photon angle and absorption events.  
-- 📷 Collimator schematic and simulated data visualization.  
+-  Adjustable parameters for hole size, thickness, and photon energy.  
+-  Real-time plots for photon detection and energy distribution.  
+-  Basic Monte Carlo randomization for photon angle and absorption events.  
+-  Collimator schematic and simulated data visualization.  
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 - **React.js** – UI framework  
 - **Recharts** – Interactive plots  
@@ -44,7 +43,7 @@ Developed using **React + Recharts + TailwindCSS**, this tool provides an intera
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 1. Clone the repository:
    ```bash
