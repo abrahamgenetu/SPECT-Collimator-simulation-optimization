@@ -166,8 +166,8 @@ const SpectCollimatorSim = () => {
             SPECT Collimator Simulation & Optimization
           </h1>
           <p className="text-blue-200 text-lg">
-  Monte Carlo Photon Transport Analysis — a research tool for simulating collimator and detector parameters for small-animal (rat) studies in the CLPL lab, Marquette University.
-</p>
+            Monte Carlo Photon Transport Analysis
+           </p>
 
         </div>
 
@@ -373,11 +373,10 @@ const SpectCollimatorSim = () => {
         <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20">
           <h3 className="text-lg font-bold text-white mb-3">About This Simulation</h3>
           <p className="text-blue-200 leading-relaxed">
-  This Monte Carlo simulation models gamma-ray photon transport through parallel-hole collimators for **small-animal (rat) SPECT imaging** in our lab. 
-  It calculates key performance metrics including spatial resolution (FWHM), sensitivity, uniformity, and septal penetration. 
-  The simulation is designed to **optimize collimator geometry and detector parameters** for small rats, balancing sensitivity and resolution under low-activity imaging conditions. 
-  This tool supports our lab’s research on quantitative lung imaging and tracer distribution in rodent models.
-</p>
+            This Monte Carlo simulation models gamma-ray photon transport through parallel-hole collimators for SPECT imaging systems. 
+            It calculates key performance metrics including spatial resolution (FWHM), sensitivity, uniformity, and septal penetration. 
+            The simulation demonstrates the fundamental trade-offs between resolution and sensitivity in collimator for small animal SPECT imaging studies. CLPL lab, Marquette University.
+          </p>
 
         </div>
       </div>
