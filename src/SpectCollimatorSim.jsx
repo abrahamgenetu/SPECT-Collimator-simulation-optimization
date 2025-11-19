@@ -165,7 +165,10 @@ const SpectCollimatorSim = () => {
             <Camera className="w-10 h-10" />
             SPECT Collimator Simulation & Optimization
           </h1>
-          <p className="text-blue-200 text-lg">Monte Carlo Photon Transport Analysis</p>
+          <p className="text-blue-200 text-lg">
+  Monte Carlo Photon Transport Analysis — a research tool for simulating collimator and detector parameters for small-animal (rat) studies in the CLPL lab, Marquette University.
+</p>
+
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
@@ -370,11 +373,12 @@ const SpectCollimatorSim = () => {
         <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20">
           <h3 className="text-lg font-bold text-white mb-3">About This Simulation</h3>
           <p className="text-blue-200 leading-relaxed">
-            This Monte Carlo simulation models gamma-ray photon transport through parallel-hole collimators for SPECT imaging systems. 
-            It calculates key performance metrics including spatial resolution (FWHM), sensitivity, uniformity, and septal penetration. 
-            The simulation demonstrates the fundamental trade-offs between resolution and sensitivity in collimator design - a critical 
-            consideration in nuclear medicine imaging hardware development at companies like Siemens Healthineers.
-          </p>
+  This Monte Carlo simulation models gamma-ray photon transport through parallel-hole collimators for **small-animal (rat) SPECT imaging** in our lab. 
+  It calculates key performance metrics including spatial resolution (FWHM), sensitivity, uniformity, and septal penetration. 
+  The simulation is designed to **optimize collimator geometry and detector parameters** for small rats, balancing sensitivity and resolution under low-activity imaging conditions. 
+  This tool supports our lab’s research on quantitative lung imaging and tracer distribution in rodent models.
+</p>
+
         </div>
       </div>
     </div>
